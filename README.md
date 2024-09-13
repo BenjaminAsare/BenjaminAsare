@@ -9,7 +9,6 @@ I am a cybersecurity analyst dedicated to identifying and mitigating risks to pr
 
 My computer science journey has ignited a passion for cybersecurity. I'm excited to transition into this field and aim to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
-**BenjaminAsare/BenjaminAsare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 I’m currently working on Foundations of Cybersecurity
 - 🌱 I’m currently learning Google Cloud Data Analytics Professional Certificate
